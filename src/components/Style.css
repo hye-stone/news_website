@@ -1,0 +1,459 @@
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+    color: inherit;
+    text-decoration: none;
+}
+h1 a:visited,
+h2 a:visited,
+h3 a:visited,
+h4 a:visited,
+h5 a:visited,
+h6 a:visited {
+    color: inherit;
+}
+h1 a:hover,
+h2 a:hover,
+h3 a:hover,
+h4 a:hover,
+h5 a:hover,
+h6 a:hover {
+    text-decoration: none;
+}
+.pg.t-light h1 a:hover,
+.pg.t-light h2 a:hover,
+.pg.t-light h3 a:hover,
+.pg.t-light h4 a:hover,
+.pg.t-light h5 a:hover,
+.pg.t-light h6 a:hover,
+.pg .zn.t-light h1 a:hover,
+.pg .zn.t-light h2 a:hover,
+.pg .zn.t-light h3 a:hover,
+.pg .zn.t-light h4 a:hover,
+.pg .zn.t-light h5 a:hover,
+.pg .zn.t-light h6 a:hover,
+h1 .pg.t-light a:hover,
+h1 .pg .zn.t-light a:hover,
+h2 .pg.t-light a:hover,
+h2 .pg .zn.t-light a:hover,
+h3 .pg.t-light a:hover,
+h3 .pg .zn.t-light a:hover,
+h4 .pg.t-light a:hover,
+h4 .pg .zn.t-light a:hover,
+h5 .pg.t-light a:hover,
+h5 .pg .zn.t-light a:hover,
+h6 .pg.t-light a:hover,
+h6 .pg .zn.t-light a:hover {
+    color: #c00;
+}
+.pg.t-dark h1 a:hover,
+.pg.t-dark h2 a:hover,
+.pg.t-dark h3 a:hover,
+.pg.t-dark h4 a:hover,
+.pg.t-dark h5 a:hover,
+.pg.t-dark h6 a:hover,
+.pg .zn.t-dark h1 a:hover,
+.pg .zn.t-dark h2 a:hover,
+.pg .zn.t-dark h3 a:hover,
+.pg .zn.t-dark h4 a:hover,
+.pg .zn.t-dark h5 a:hover,
+.pg .zn.t-dark h6 a:hover,
+h1 .pg.t-dark a:hover,
+h1 .pg .zn.t-dark a:hover,
+h2 .pg.t-dark a:hover,
+h2 .pg .zn.t-dark a:hover,
+h3 .pg.t-dark a:hover,
+h3 .pg .zn.t-dark a:hover,
+h4 .pg.t-dark a:hover,
+h4 .pg .zn.t-dark a:hover,
+h5 .pg.t-dark a:hover,
+h5 .pg .zn.t-dark a:hover,
+h6 .pg.t-dark a:hover,
+h6 .pg .zn.t-dark a:hover {
+    color: #c00;
+}
+.el__storyhighlights__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section,
+summary {
+    display: block;
+}
+audio,
+canvas,
+video {
+    display: inline-block;
+    *display: inline;
+    *zoom: 1;
+}
+audio:not([controls]) {
+    display: none;
+    height: 0;
+}
+[hidden] {
+    display: none;
+}
+html {
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+button,
+html,
+input,
+select,
+textarea {
+    font-family: sans-serif;
+}
+body {
+    margin: 0;
+}
+a:focus {
+    outline: thin dotted;
+}
+a:active,
+a:hover {
+    outline: 0;
+}
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+h2 {
+    font-size: 1.5em;
+    margin: 0.83em 0;
+}
+h3 {
+    font-size: 1.17em;
+    margin: 1em 0;
+}
+h4 {
+    font-size: 1em;
+    margin: 1.33em 0;
+}
+h5 {
+    font-size: 0.83em;
+    margin: 1.67em 0;
+}
+h6 {
+    font-size: 0.75em;
+    margin: 2.33em 0;
+}
+abbr[title] {
+    border-bottom: 1px dotted;
+}
+b,
+strong {
+    font-weight: 700;
+}
+blockquote {
+    margin: 1em 40px;
+}
+dfn {
+    font-style: italic;
+}
+mark {
+    background: #ff0;
+    color: #000;
+}
+p,
+pre {
+    margin: 1em 0;
+}
+code,
+kbd,
+pre,
+samp {
+    font-family: monospace, serif;
+    _font-family: courier new, monospace;
+    font-size: 1em;
+}
+pre {
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+q {
+    quotes: none;
+}
+q:after,
+q:before {
+    content: "";
+    content: none;
+}
+small,
+sub,
+sup {
+    font-size: 75%;
+}
+sub,
+sup {
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+sup {
+    top: -0.5em;
+}
+sub {
+    bottom: -0.25em;
+}
+dl,
+menu,
+ol,
+ul {
+    margin: 1em 0;
+}
+dd {
+    margin: 0 0 0 40px;
+}
+menu,
+ol,
+ul {
+    padding: 0 0 0 40px;
+}
+nav ol,
+nav ul {
+    list-style: none;
+    list-style-image: none;
+}
+img {
+    border: 0;
+    -ms-interpolation-mode: bicubic;
+}
+svg:not(:root) {
+    overflow: hidden;
+}
+figure,
+form {
+    margin: 0;
+}
+fieldset {
+    border: 1px solid silver;
+    margin: 0 2px;
+    padding: 0.35em 0.625em 0.75em;
+}
+legend {
+    border: 0;
+    padding: 0;
+    white-space: normal;
+    *margin-left: -7px;
+}
+button,
+input,
+select,
+textarea {
+    font-size: 100%;
+    margin: 0;
+    vertical-align: baseline;
+    *vertical-align: middle;
+}
+button,
+input {
+    line-height: normal;
+}
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+    -webkit-appearance: button;
+    cursor: pointer;
+    *overflow: visible;
+}
+button[disabled],
+input[disabled] {
+    cursor: default;
+}
+input[type="checkbox"],
+input[type="radio"] {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0;
+    *height: 13px;
+    *width: 13px;
+}
+input[type="search"] {
+    -webkit-appearance: textfield;
+}
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+    -webkit-appearance: none;
+}
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}
+textarea {
+    overflow: auto;
+    vertical-align: top;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+@font-face {
+    font-family: CNN;
+    src: url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-thin.eot) format("embedded-opentype"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-thin.woff2) format("woff2"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-thin.woff) format("woff"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-thin.ttf) format("truetype");
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: CNN;
+    src: url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-light.eot) format("embedded-opentype"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-light.woff2) format("woff2"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-light.woff) format("woff"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-light.ttf) format("truetype");
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: CNN;
+    src: url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-regular.eot) format("embedded-opentype"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-regular.woff2) format("woff2"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-regular.woff) format("woff"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-regular.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: CNN;
+    src: url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-medium.eot) format("embedded-opentype"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-medium.woff2) format("woff2"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-medium.woff) format("woff"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-medium.ttf) format("truetype");
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: CNN;
+    src: url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-bold.eot) format("embedded-opentype"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-bold.woff2) format("woff2"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-bold.woff) format("woff"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-bold.ttf) format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: CNN;
+    src: url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-heavy.eot) format("embedded-opentype"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-heavy.woff2) format("woff2"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-heavy.woff) format("woff"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-heavy.ttf) format("truetype");
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: CNN;
+    src: url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-black.eot) format("embedded-opentype"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-black.woff2) format("woff2"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-black.woff) format("woff"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-black.ttf) format("truetype");
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: CNN;
+    src: url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-thinit.eot) format("embedded-opentype"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-thinit.woff2) format("woff2"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-thinit.woff) format("woff"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-thinit.ttf) format("truetype");
+    font-weight: 200;
+    font-style: italic;
+}
+@font-face {
+    font-family: CNN;
+    src: url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-lightit.eot) format("embedded-opentype"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-lightit.woff2) format("woff2"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-lightit.woff) format("woff"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-lightit.ttf) format("truetype");
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: CNN;
+    src: url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-italic.eot) format("embedded-opentype"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-italic.woff2) format("woff2"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-italic.woff) format("woff"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-italic.ttf) format("truetype");
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: CNN;
+    src: url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-mediumit.eot) format("embedded-opentype"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-mediumit.woff2) format("woff2"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-mediumit.woff) format("woff"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-mediumit.ttf) format("truetype");
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: CNN;
+    src: url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-boldit.eot) format("embedded-opentype"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-boldit.woff2) format("woff2"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-boldit.woff) format("woff"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-boldit.ttf) format("truetype");
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: CNN;
+    src: url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-heavyit.eot) format("embedded-opentype"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-heavyit.woff2) format("woff2"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-heavyit.woff) format("woff"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-heavyit.ttf) format("truetype");
+    font-weight: 800;
+    font-style: italic;
+}
+@font-face {
+    font-family: CNN;
+    src: url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-blackit.eot) format("embedded-opentype"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-blackit.woff2) format("woff2"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-blackit.woff) format("woff"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-blackit.ttf) format("truetype");
+    font-weight: 900;
+    font-style: italic;
+}
+@font-face {
+    font-family: CNN Condensed;
+    src: url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-condensedlight.eot) format("embedded-opentype"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-condensedlight.woff2) format("woff2"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-condensedlight.woff) format("woff"),
+        url(//edition.i.cdn.cnn.com/.a/fonts/cnn/3.9.0/cnnsans-condensedlight.ttf) format("truetype");
+    font-weight: 300;
+    font-style: normal;
+}
+.container {
+    padding: 0 10px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1100px;
+}
+.theTitle {
+    font-family: CNN, Helvetica Neue, Helvetica, Arial, Utkal, sans-serif;
+    font-weight: 500;
+    font-size: 4.5vw;
+    line-height: 1.02778;
+    word-wrap: break-word;
+}
+.theTitle:hover {
+    color: #c00;
+}
