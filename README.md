@@ -1,4 +1,4 @@
-# 📖 React (shopping-cart project)
+# 📖 React (news website)
 ![React](https://img.shields.io/badge/React-v17.0.2-%2361DAFB?style=flat&logo=React&logoColor=#61DAFB&)
 ![Rdux](https://img.shields.io/badge/Redux-v4.1.2-%23764ABC?style=flat&logo=Redux&logoColor=#764ABC)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-v5.1.3-%237952B3?style=flat&logo=Bootastrap&logoColor=#764ABC)
