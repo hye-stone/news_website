@@ -37,7 +37,7 @@ const GetAPI = (): ReactElement => {
 
     useEffect(() => {
         if (dataTechnology.length === 0) {
-            // console.log(dataTechnology);
+            // console.log(dataTechnology); 
             fetchData1();
         }
     }, [fetchData1, dataTechnology]);
