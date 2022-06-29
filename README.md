@@ -7,8 +7,8 @@
 
 Demo: https://hye-stone.github.io/news_website/
  
--  "https://saurav.tech/NewsAPI/" 에서 API를 가져왔다.
-- `detail 페이지`에서 구매하기 버튼을 누르면 `장바구니 페이지`로 이동하며 상품이 자동으로 추가된다.
+- "https://saurav.tech/NewsAPI/" 에서 API를 가져왔다.
+- GetApi.js에서 axios를 활용하여 데이터 가져오기.
 - 같은 상품이 이미 장바구니에 있으면 `alert`와 함께 수량 `1이` 추가된다.
 - 상품은 최소한 `1개`의 수량을 가지고 있으며, `10개`까지 구매할 수 있다.
 - 장바구니에 담긴 상품은 브라우저를 `새로고침(reload)`해도 유지된다.
